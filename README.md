@@ -14,7 +14,7 @@
     A premium, glassmorphic web dashboard providing semantic similarities for movies and TV shows alongside collaborative client profiling.
   </p>
 
-  <img src="https://github.com/user-attachments/assets/66fe0c23-c0d1-44bb-b3b3-8c4333857500" alt="CineMatch AI Dashboard Initial State" width="800" style="box-shadow: 0 4px 12px rgba(0,0,0,0.3); border-radius: 12px; border: 1px solid rgba(255,255,255,0.1); margin-top: 15px;"/>
+  <img src="https://raw.githubusercontent.com/cibrgine/Movie-recommendation-system/assets/img/logo.png" alt="CineMatch AI Logo" width="160" style="margin-top: 15px; margin-bottom: 5px;"/>
 
 </div>
 
@@ -51,11 +51,14 @@ By leveraging high-quality textual embeddings and sparse user interaction vector
 The frontend is designed around a modern glassmorphic dashboard separating content recommendations and client profiling.
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/debf97db-2917-48f8-b3de-c4667d402283" alt="Movie Recommendations" width="800" style="box-shadow: 0 4px 12px rgba(0,0,0,0.3); border-radius: 12px; border: 1px solid rgba(255,255,255,0.1); margin-bottom: 20px;"/>
-  <p><em>Figure 1: Semantic recommendations matching user inputs, tagged by media type.</em></p>
+  <img src="https://raw.githubusercontent.com/cibrgine/Movie-recommendation-system/assets/img/screen1.png" alt="CineMatch AI Dashboard Initial State" width="800" style="box-shadow: 0 4px 12px rgba(0,0,0,0.3); border-radius: 12px; border: 1px solid rgba(255,255,255,0.1); margin-bottom: 20px;"/>
+  <p><em>Figure 1: CineMatch AI dashboard home interface showing movies and TV shows sections.</em></p>
 
-  <img src="https://github.com/user-attachments/assets/a334d4f8-132d-42ef-ad0a-cc4a6d482cf1" alt="Client Personalized Recommendations" width="800" style="box-shadow: 0 4px 12px rgba(0,0,0,0.3); border-radius: 12px; border: 1px solid rgba(255,255,255,0.1); margin-bottom: 20px;"/>
-  <p><em>Figure 2: Collaborative user profiling mapping MovieLens client rating logs.</em></p>
+  <img src="https://raw.githubusercontent.com/cibrgine/Movie-recommendation-system/assets/img/screen2.png" alt="CineMatch AI Search Recommendations" width="800" style="box-shadow: 0 4px 12px rgba(0,0,0,0.3); border-radius: 12px; border: 1px solid rgba(255,255,255,0.1); margin-bottom: 20px;"/>
+  <p><em>Figure 2: Semantic search recommendations for titles with dynamic category badges.</em></p>
+
+  <img src="https://raw.githubusercontent.com/cibrgine/Movie-recommendation-system/assets/img/screen3.png" alt="CineMatch AI Client Recommendations" width="800" style="box-shadow: 0 4px 12px rgba(0,0,0,0.3); border-radius: 12px; border: 1px solid rgba(255,255,255,0.1); margin-bottom: 20px;"/>
+  <p><em>Figure 3: Collaborative client profiling and movie rating history mapping.</em></p>
 </div>
 
 ---
